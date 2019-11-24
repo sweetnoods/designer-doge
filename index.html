@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+    <script
+     src="https://code.jquery.com/jquery-3.3.1.min.js"
+     integrity="sha256-FgpCb/KJQlLNfOu91ta32o/NMZxltwRo8QtmkMRdAu8="
+     crossorigin="anonymous">
+    </script>
+    <script src="https://cdn.jsdelivr.net/npm/lodash@4.17.11/lodash.min.js"></script>
+    <link rel="stylesheet" href="./styles.css">
+    <title></title>
+  </head>
+  <body>
+<h1>The True Cost of a Shiba</h1>
+
+<p> My dog is pretty cute, albeit a bit shy. A lot of people like to ask: how
+much did she cost? What I generally infer they're asking is - what was the
+adoption fee?
+
+<br>
+<br>
+The answer to that is $1600 CAD, albeit an incomplete one. I started
+breaking down all the costs associated with owning what many would consider to
+be a 'designer' breed from puphood. Here's what the real cost looks like:</p>
+
+<table id="countit">
+<tr>
+  <th>Description</th>
+  <th>Cost in $CAD</th>
+</tr>
+<tr>
+  <td>Adoption</td>
+  <td class="count-me">1600</td>
+</tr>
+<tr>
+  <td>Food</td>
+  <td class="count-me">300</td>
+</tr>
+<tr>
+  <td> Vet Expenses </td>
+  <td>
+    <table id="subtable">
+      <tr>
+        <td>Spaying</td>
+        <td class="count-me" id="subtable">550</td>
+      </tr>
+      <tr>
+        <td>Vaccinations</td>
+        <td class="count-me" id="subtable">240</td>
+      </tr>
+      </table>
+    </td>
+  </tr>
+<tr>
+  <td>Misc. Expenses</td>
+  <td class="count-me">1600</td>
+</tr>
+<tr>
+ <td>Total</td>
+ <td id="result" class="totalAmount"></td>
+</table>
+
+  </body>
+<script type="text/javascript" src="./index.js"></script>
+</html>

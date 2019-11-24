@@ -1,0 +1,40 @@
+header {
+  display: flex;
+  justify-content: center;
+  font-size: 125%;
+  color: white;
+  position: relative;
+}
+
+table, th, td {
+  border: 1px solid red;  padding: 20px;
+  text-align: right;
+  vertical-align: top;
+  color: white;
+  background-color: #191918;
+}
+
+main {
+  display: flex;
+  justify-content: center;
+  align-items: flex-start;
+  height: 100%;
+}
+body {
+  font-family: Lato, Helvetica Neue, Helvetica, Arial, sans-serif;
+  height: 100vh;
+  background-color: #191918;
+}
+
+h1, p {
+  color: white;
+}
+
+.count-me {
+  text-align: right;
+}
+
+#subtable{
+border: 1px solid green;
+padding-right: 0;
+}
