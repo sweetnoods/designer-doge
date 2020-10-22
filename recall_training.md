@@ -16,20 +16,20 @@ Pick a word out of your normal vocabulary.
 
 ## The Recall Word checklist 
 
-[] Is my dog in danger? 
+- [ ] Is my dog in danger? 
 
 If yes, disregard rules - save your dog or the person in danger. 
 
 
-[] Am I equipped to reward my dog? 
+- [ ] Am I equipped to reward my dog? 
 
 You need to be able to pay your dog if you want this to work. Use the delicious rewards in small doses. The goal is to taste something delicious, (ex: cheese). 
 
-[] Am I certain the dog will come when called? If not, is the dog on leash? 
+- [ ] Am I certain the dog will come when called? If not, is the dog on leash? 
 
 If they are distracted do not ruin the recall word. If they are on leash, slowly retract the dog. 
 
-[] Will coming to me be negative to my dog? 
+- [ ] Will coming to me be negative to my dog? 
 
 Coming to you should never be detrimintal to the dog - such as recalling to get them to get their nails clipped. The dog should not experience something negative after hearing this word. 
 
