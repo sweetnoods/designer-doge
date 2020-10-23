@@ -1,3 +1,14 @@
+- [Recall training](#recall-training)
+  * [Starting Slow](#starting-slow)
+  * [Starting Fresh](#starting-fresh)
+  * [The Recall Word checklist](#the-recall-word-checklist)
+  * [Advancing the Recall](#advancing-the-recall)
+  * [Taking this to the dog park](#taking-this-to-the-dog-park)
+  * [A big note about small dogs](#a-big-note-about-small-dogs)
+  * [Training with friends](#training-with-friends)
+  * [Training Tips](#training-tips)
+
+
 # Recall training
 
 ## Starting Slow
@@ -25,6 +36,7 @@ As for when to treat:
 
 Start mastering this command indoors before taking this to the streets. 
 
+You want to strive for at least 90% success rate with recall, you're shooting for 100%. When you've reached at least 95%, then you can move on to Advancing the Recall. 
 
 ## The Recall Word checklist 
 
@@ -112,4 +124,4 @@ If you gradually increase this sound over time and only reward when they do not 
 
 5. Control the intensity where you can. When you increase the difficulty they should still not react. 
 
-6. The best training should feel like a waste of time. If you can recall them before they react and are just starting to repeat this.
+6. The best training should feel like a waste of time.
