@@ -11,28 +11,30 @@
 
 # Recall training
 
-## Starting Slow
-Throw food or a treat away from you
+Recall training is about getting a dog to return to you *whenever* you use a specific keyword. This is a valuable skill to teach your companion - once it has matured it can be leveraged to mitigate dangerous situations while off leash. 
 
-Soon as the dog picks up food say the recall word. You really just want to have this word associated with good things for a bit. Repeat this until it is boring. 
+## Starting Slow
+You want to start off with just associating good things with your keyword. More on keyword selection in the next section. 
+
+Throw food or a treat away from you.
+Soon as the dog picks up food say your recall word. Repeat this training 
 
 ## Starting Fresh
+If you already have a word you've been using, but the dog shows up <90% of the time, say if there is a slice of pizza on the sidewalk, could you recall your dog to you? If the answer is no then it's time to start with a fresh term. 
 
-If you already have a word you've been using, but the dog only shows up <90% of the time, say if there is a slice of pizza on the sidewalk, could you recall your dog to you? If the answer is no then it's time to start with a fresh term. 
-
-Pick a word out of your normal vocabulary. The idea behind it is that you don't want to taint this word. More on that in the next section:
+Pick a word out of your normal vocabulary. The idea behind it is that you don't want to corrupt this word, if the dog hears it they NEED to come to you if you want this to work everytime. More on that in the next section:
 
 ## 1:1:1 ratio
 
-In order to strengthen the signficance of this term to your dog you need to strive for a 1:1:1 ratio of saying the command, having the dog recall, and then treating the dog. 
+In order to strengthen the signficance of this term to your dog you need to strive for a 1:1:1 ratio of: using the recall word, the dog recall, the dog gets rewarded. 
 
 1 command
 1 recall
 1 treat 
 
-As for when to treat: 
+As for *when* to treat: 
 
-**Never have food visible until they've started the recall.**
+**Never have food visible until they've started the recall.** Doing so may result in very conditional recall for your dog and you need this to be unconditional. 
 
 Start mastering this command indoors before taking this to the streets. 
 
@@ -40,25 +42,25 @@ You want to strive for at least 90% success rate with recall, you're shooting fo
 
 ## The Recall Word checklist 
 
-- [ ] Is my dog in danger? 
+- [ ] **Is my dog in danger?**
 
 If yes, disregard everything below - save your dog or the person in danger. 
 
-- [ ] Am I equipped to reward my dog? 
+- [ ] **Am I equipped to reward my dog?**
 
 You need to be able to pay your dog if you want this to work. Use the delicious rewards in small doses. The goal is to taste something delicious, (ex: cheese). 
 
-- [ ] Am I certain the dog will come when called? If not, is the dog on leash? 
+- [ ] **Am I certain the dog will come when called? If not, is the dog on leash?**
 
 If they are distracted do not ruin the recall word. If they are on leash, slowly retract the dog and treat when they come to you.
 
-- [ ] Will coming to me be negative to my dog? 
+- [ ] **Will coming to me be negative to my dog?**
 
 Coming to you should never be detrimintal to the dog - such as recalling to get them to get their nails clipped. The dog should not experience something negative after hearing this word. 
 
 ## If the dog does not come: 
 
-You should never repeat the command. If the dog does not come, do not say the word or show the treat. You can try other words or gimmicks to get them over, but do not repeat the recall command. 
+You should never repeat the command. If the dog does not come, do not say the word or show the treat. You can try other words or gimmicks to get them over to you, but do not repeat the recall command. 
 
 On leash, you can pull the dog slowly (do not yank) towards and still reward the dog. 
 
@@ -72,15 +74,19 @@ Use what your dog wants as a reward but only after they come to you. This works 
 
 ### Easter Egg Hunt
 
-You can go plant food outside that you know will be delicious for your pupper, when they see the treat, use the recall word 
+You can go plant food outside that you know will be delicious for your pupper, when they find the treat, use the recall word, the dog should be convinced by now that you have something better. After they recall treat or release them to go get their "hidden" treasure. 
 
-You need full control over the variables until this becomes their default response to things they want. 
+You need full control over the variables until deferring to you becomes their default response to things they want. 
 
-## Taking this to the dog park 
+## Taking this to the dog park - Starting off
 
 Start with training in an empty dog park, on leash. Leave when a dog shows up. 
 
 After there are no failures on leash, then you can remove the leash. Still no dogs in the park at this point. 
+
+### Moving on to advanced dog parks 
+
+TBD
 
 # Dog Aggression
 
